@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+<<<<<<< HEAD
 using Microsoft.Data.SqlClient;
 
 namespace CarteleraCine
@@ -119,3 +120,13 @@ namespace CarteleraCine
         }
     }
 }
+=======
+using System.Text;
+
+namespace carteleramax
+{
+    internal class funcionRepositorio
+    {
+    }
+}
+>>>>>>> 18e066bd9fe92db04f68b3f0cecec0a1de192b8d

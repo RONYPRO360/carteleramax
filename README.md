@@ -37,6 +37,5 @@ Aplicación de consola desarrollada en **C# (.NET 10)** para la gestión de func
    - `5`: Eliminar función
    - `6`: Salir
 
-
 ### 4. Control de error de base de datos (`SqlException`)
-![Error de base de datos controlado](capturas/04_error_bd.png)
+![Error de base de datos controlado](capturas/04_error_bd.p

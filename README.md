@@ -1,11 +1,10 @@
-# carteleramax
 # Cartelera de Cine (`carteleramax`)
 
 Aplicación de consola desarrollada en **C# (.NET 10)** para la gestión de funciones de cine conectada a **SQL Server LocalDB** mediante `Microsoft.Data.SqlClient` (ADO.NET), aplicando consultas parametrizadas, patrón repositorio y manejo de excepciones con `try/catch`.
 
 ## Requisitos previos
 
-- **Visual Studio Community 2026** (con la carga de trabajo de desarrollo de escritorio .NET / .NET 8 SDK).
+- **Visual Studio Community 2026** (con la carga de trabajo de desarrollo de escritorio .NET / .NET 10 SDK).
 - **SQL Server LocalDB** (`(localdb)\MSSQLLocalDB`).
 - Paquete NuGet **`Microsoft.Data.SqlClient`** instalado en el proyecto.
 
@@ -36,6 +35,3 @@ Aplicación de consola desarrollada en **C# (.NET 10)** para la gestión de func
    - `4`: Actualizar precio
    - `5`: Eliminar función
    - `6`: Salir
-
-### 4. Control de error de base de datos (`SqlException`)
-![Error de base de datos controlado](capturas/04_error_bd.p
